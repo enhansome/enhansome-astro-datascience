@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 66323956,
             "language": "Jupyter Notebook",
             "last_commit": "2021-08-27T14:14:18Z",
             "owner": "prappleizer",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 274242934,
             "language": "Jupyter Notebook",
             "last_commit": "2023-06-15T04:10:12Z",
             "owner": "astroML",
@@ -35,234 +37,252 @@
       "title": "Books"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "STScI general Jupyter Notebooks",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 138342879,
+                "language": null,
+                "last_commit": "2026-06-01T14:11:05Z",
+                "owner": "spacetelescope",
+                "repo": "notebooks",
+                "stars": 231
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "STScI JWST Jupyter Notebooks",
+              "description": "showcasing pipeline and analysis tools via science use cases",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 248772620,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-08-13T15:09:11Z",
+                "owner": "spacetelescope",
+                "repo": "jdat_notebooks",
+                "stars": 132
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Rubin Observatory Tutorial Jupyter Notebooks for Data Preview 0",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 369330175,
+                "language": "Jupyter Notebook",
+                "last_commit": "2025-04-28T20:07:23Z",
+                "owner": "rubin-dp0",
+                "repo": "tutorial-notebooks",
+                "stars": 44
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Tutorials for creating figures, tables, or other content",
+              "description": "by AAS Journals",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 33264937,
+                "language": "HTML",
+                "last_commit": "2024-05-17T16:24:38Z",
+                "owner": "AASJournals",
+                "repo": "Tutorials",
+                "stars": 43
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Tutorials"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ESCAPE data science summer school 2021",
+              "description": "Materials on software development and open science by the European Science Cluster of Astronomy & Particle physics ESFRI research infrastructures project.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 367376378,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-05-03T14:56:14Z",
+                "owner": "escape2020",
+                "repo": "school2021",
+                "stars": 246
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Code/Astro Workshop Workshop materials",
+              "description": "by Jason Wang. A Software Engineering Workshop for Astronomy.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 244702480,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-08-11T13:54:10Z",
+                "owner": "semaphoreP",
+                "repo": "codeastro",
+                "stars": 240
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Machine Learning and Statistics for Physicists",
+              "description": "by David Kirby. Material for a UC Irvine course offered by the Department of Physics and Astronomy.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 116515717,
+                "language": "Jupyter Notebook",
+                "last_commit": "2021-04-15T19:34:13Z",
+                "owner": "dkirkby",
+                "repo": "MachineLearningStatistics",
+                "stars": 104
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Machine Learning for Physics and Astronomy (2022-2023)",
+              "description": "by Juan Rojo, Tanjona Rabemananjara and Ryan van Mastrigt",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 288937111,
+                "language": "Jupyter Notebook",
+                "last_commit": "2022-08-25T12:34:40Z",
+                "owner": "LHCfitNikhef",
+                "repo": "ML4PA",
+                "stars": 69
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Astrostatistics and Machine Learning class for the MSc degree in Astrophysics at the University of Milan-Bicocca",
+              "description": "by Davide Gerosa",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 738489416,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-09-27T07:31:41Z",
+                "owner": "dgerosa",
+                "repo": "astrostatistics_bicocca_2024",
+                "stars": 37
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Astro Hack Week tutorial materials: 2015",
+              "description": ", 2016, 2017, 2018, 2019, 2020. Also see YouTube for recordings of some events: 2015, 2016, 2020",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 42257823,
+                "language": "TeX",
+                "last_commit": "2015-10-04T21:43:56Z",
+                "owner": "AstroHackWeek",
+                "repo": "AstroHackWeek2015",
+                "stars": 32
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Kavli 2019 Summer Program in Astrophysics Lectures",
+              "description": "by David Kirkby. Machine Learning in the era of large astronomical surveys.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 194867237,
+                "language": "Jupyter Notebook",
+                "last_commit": "2020-03-11T02:21:54Z",
+                "owner": "dkirkby",
+                "repo": "kavli2019",
+                "stars": 17
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Big Data Physics: Methods of Machine Learning",
+              "description": "by Gordon Richards at Drexel University; lots of useful links in the readme.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 288294890,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-12-05T19:36:39Z",
+                "owner": "gtrichards",
+                "repo": "PHYS_440_540",
+                "stars": 16
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Big Data in Astrophysics, Spring 2023",
+              "description": "by Michael Coughlin and Jie Ding, University of Minnesota",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 586569583,
+                "language": "Jupyter Notebook",
+                "last_commit": "2023-04-26T16:07:58Z",
+                "owner": "UMN-Big-Data-in-Astrophysics",
+                "repo": "ast8581_2023_Spring",
+                "stars": 16
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Astrostatistics, Vanderbuilt, Spring 2022",
+              "description": "by Stephen R. Taylor",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 446527224,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-01-19T23:43:10Z",
+                "owner": "VanderbiltAstronomy",
+                "repo": "astr_8070_s22",
+                "stars": 16
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ASTR 596: Fundamentals of Data Science, Spring 2023",
+              "description": "by Gautham Narayan, University of Illinois Urbana Champaign",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 590365751,
+                "language": "Jupyter Notebook",
+                "last_commit": "2023-05-13T04:52:46Z",
+                "owner": "gnarayan",
+                "repo": "ast596_2023_Spring",
+                "stars": 14
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Course and Workshop Materials"
+        }
+      ],
       "title": "Repositories"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "STScI general Jupyter Notebooks",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-06-01T14:11:05Z",
-            "owner": "spacetelescope",
-            "repo": "notebooks",
-            "stars": 231
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "STScI JWST Jupyter Notebooks",
-          "description": "showcasing pipeline and analysis tools via science use cases",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2026-08-13T15:09:11Z",
-            "owner": "spacetelescope",
-            "repo": "jdat_notebooks",
-            "stars": 132
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Rubin Observatory Tutorial Jupyter Notebooks for Data Preview 0",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Jupyter Notebook",
-            "last_commit": "2025-04-28T20:07:23Z",
-            "owner": "rubin-dp0",
-            "repo": "tutorial-notebooks",
-            "stars": 44
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Tutorials for creating figures, tables, or other content",
-          "description": "by AAS Journals",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2024-05-17T16:24:38Z",
-            "owner": "AASJournals",
-            "repo": "Tutorials",
-            "stars": 43
-          }
-        }
-      ],
-      "title": "Tutorials"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "ESCAPE data science summer school 2021",
-          "description": "Materials on software development and open science by the European Science Cluster of Astronomy & Particle physics ESFRI research infrastructures project.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2024-05-03T14:56:14Z",
-            "owner": "escape2020",
-            "repo": "school2021",
-            "stars": 246
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Code/Astro Workshop Workshop materials",
-          "description": "by Jason Wang. A Software Engineering Workshop for Astronomy.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2026-08-11T13:54:10Z",
-            "owner": "semaphoreP",
-            "repo": "codeastro",
-            "stars": 240
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Machine Learning and Statistics for Physicists",
-          "description": "by David Kirby. Material for a UC Irvine course offered by the Department of Physics and Astronomy.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2021-04-15T19:34:13Z",
-            "owner": "dkirkby",
-            "repo": "MachineLearningStatistics",
-            "stars": 104
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Machine Learning for Physics and Astronomy (2022-2023)",
-          "description": "by Juan Rojo, Tanjona Rabemananjara and Ryan van Mastrigt",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2022-08-25T12:34:40Z",
-            "owner": "LHCfitNikhef",
-            "repo": "ML4PA",
-            "stars": 69
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Astrostatistics and Machine Learning class for the MSc degree in Astrophysics at the University of Milan-Bicocca",
-          "description": "by Davide Gerosa",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2024-09-27T07:31:41Z",
-            "owner": "dgerosa",
-            "repo": "astrostatistics_bicocca_2024",
-            "stars": 37
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Astro Hack Week tutorial materials: 2015",
-          "description": ", 2016, 2017, 2018, 2019, 2020. Also see YouTube for recordings of some events: 2015, 2016, 2020",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TeX",
-            "last_commit": "2015-10-04T21:43:56Z",
-            "owner": "AstroHackWeek",
-            "repo": "AstroHackWeek2015",
-            "stars": 32
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Kavli 2019 Summer Program in Astrophysics Lectures",
-          "description": "by David Kirkby. Machine Learning in the era of large astronomical surveys.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2020-03-11T02:21:54Z",
-            "owner": "dkirkby",
-            "repo": "kavli2019",
-            "stars": 17
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Big Data Physics: Methods of Machine Learning",
-          "description": "by Gordon Richards at Drexel University; lots of useful links in the readme.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2024-12-05T19:36:39Z",
-            "owner": "gtrichards",
-            "repo": "PHYS_440_540",
-            "stars": 16
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Big Data in Astrophysics, Spring 2023",
-          "description": "by Michael Coughlin and Jie Ding, University of Minnesota",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2023-04-26T16:07:58Z",
-            "owner": "UMN-Big-Data-in-Astrophysics",
-            "repo": "ast8581_2023_Spring",
-            "stars": 16
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Astrostatistics, Vanderbuilt, Spring 2022",
-          "description": "by Stephen R. Taylor",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2024-01-19T23:43:10Z",
-            "owner": "VanderbiltAstronomy",
-            "repo": "astr_8070_s22",
-            "stars": 16
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ASTR 596: Fundamentals of Data Science, Spring 2023",
-          "description": "by Gautham Narayan, University of Illinois Urbana Champaign",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2023-05-13T04:52:46Z",
-            "owner": "gnarayan",
-            "repo": "ast596_2023_Spring",
-            "stars": 14
-          }
-        }
-      ],
-      "title": "Course and Workshop Materials"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -271,11 +291,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21737465,
             "language": null,
             "last_commit": "2026-08-18T13:28:50Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 497398
+            "stars": 497654
           }
         },
         {
@@ -285,6 +306,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21600440,
             "language": "Ruby",
             "last_commit": "2024-06-02T22:46:41Z",
             "owner": "bayandin",
@@ -299,11 +321,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21515044,
             "language": null,
             "last_commit": "2026-08-18T10:27:04Z",
             "owner": "academic",
             "repo": "awesome-datascience",
-            "stars": 29837
+            "stars": 29839
           }
         },
         {
@@ -313,6 +336,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21388604,
             "language": null,
             "last_commit": "2024-07-31T23:19:05Z",
             "owner": "emijrp",
@@ -327,6 +351,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 35851867,
             "language": null,
             "last_commit": "2025-07-30T14:42:37Z",
             "owner": "jonathansick",
@@ -341,6 +366,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 72374883,
             "language": "Python",
             "last_commit": "2018-10-12T05:59:46Z",
             "owner": "torchhound",
@@ -350,21 +376,12 @@
         }
       ],
       "title": "Other Awesome Lists"
-    },
-    {
-      "description": "Contributions welcome! Read the contribution guidelines first.",
-      "items": [],
-      "title": "Contribute"
-    },
-    {
-      "description": "See LICENSE.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T22:08:38.600Z",
+    "last_updated": "2026-08-19T12:16:49.902Z",
     "original_repository": "mpi-astronomy/awesome-astro-datascience",
+    "original_repository_id": 477450329,
     "original_repository_sha": "d0818361118ff39f1aec50bbcc19580d9509e032",
     "enhanced_repository": "enhansome/enhansome-astro-datascience",
     "enhanced_repository_description": null,
