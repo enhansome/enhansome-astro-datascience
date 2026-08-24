@@ -43,6 +43,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Astronomaly",
+              "description": "A flexible framework for anomaly detection in astronomy.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 196393655,
+                "language": "Python",
+                "last_commit": "2026-05-12T13:03:15Z",
+                "owner": "MichelleLochner",
+                "repo": "astronomaly",
+                "stars": 107
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Libraries"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "STScI general Jupyter Notebooks",
               "description": null,
               "children": [],
@@ -296,7 +318,7 @@
             "last_commit": "2026-08-21T12:39:13Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 499290
+            "stars": 499522
           }
         },
         {
@@ -311,7 +333,7 @@
             "last_commit": "2024-06-02T22:46:41Z",
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33619
+            "stars": 33620
           }
         },
         {
@@ -326,7 +348,7 @@
             "last_commit": "2026-08-22T06:20:28Z",
             "owner": "academic",
             "repo": "awesome-datascience",
-            "stars": 29857
+            "stars": 29859
           }
         },
         {
@@ -371,7 +393,7 @@
             "last_commit": "2018-10-12T05:59:46Z",
             "owner": "torchhound",
             "repo": "warren",
-            "stars": 400
+            "stars": 401
           }
         }
       ],
@@ -379,7 +401,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T22:07:47.192Z",
+    "last_updated": "2026-08-24T14:45:18.287Z",
     "original_repository": "mpi-astronomy/awesome-astro-datascience",
     "original_repository_id": 477450329,
     "original_repository_sha": "d0818361118ff39f1aec50bbcc19580d9509e032",
