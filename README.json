@@ -318,7 +318,7 @@
             "last_commit": "2026-08-21T12:39:13Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 499605
+            "stars": 499707
           }
         },
         {
@@ -333,7 +333,7 @@
             "last_commit": "2024-06-02T22:46:41Z",
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33621
+            "stars": 33625
           }
         },
         {
@@ -363,7 +363,7 @@
             "last_commit": "2024-07-31T23:19:05Z",
             "owner": "emijrp",
             "repo": "awesome-awesome",
-            "stars": 3202
+            "stars": 3203
           }
         },
         {
@@ -378,7 +378,7 @@
             "last_commit": "2025-07-30T14:42:37Z",
             "owner": "jonathansick",
             "repo": "awesome-astronomy",
-            "stars": 624
+            "stars": 625
           }
         },
         {
@@ -401,7 +401,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T22:12:06.118Z",
+    "last_updated": "2026-08-25T06:37:28.273Z",
     "original_repository": "mpi-astronomy/awesome-astro-datascience",
     "original_repository_id": 477450329,
     "original_repository_sha": "d0818361118ff39f1aec50bbcc19580d9509e032",
