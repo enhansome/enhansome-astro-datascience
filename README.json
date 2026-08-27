@@ -90,7 +90,7 @@
                 "last_commit": "2026-08-20T15:27:31Z",
                 "owner": "spacetelescope",
                 "repo": "jdat_notebooks",
-                "stars": 132
+                "stars": 133
               }
             },
             {
@@ -318,7 +318,7 @@
             "last_commit": "2026-08-21T12:39:13Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 500259
+            "stars": 500358
           }
         },
         {
@@ -333,7 +333,7 @@
             "last_commit": "2024-06-02T22:46:41Z",
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33626
+            "stars": 33628
           }
         },
         {
@@ -348,7 +348,7 @@
             "last_commit": "2026-08-26T17:06:22Z",
             "owner": "academic",
             "repo": "awesome-datascience",
-            "stars": 29874
+            "stars": 29876
           }
         },
         {
@@ -401,9 +401,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T02:17:28.581Z",
-    "original_repository": "mpi-astronomy/awesome-astro-datascience",
-    "original_repository_id": 477450329,
+    "last_updated": "2026-08-27T11:20:49.466Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 477450329,
+      "language": null,
+      "last_commit": "2024-01-23T11:45:31Z",
+      "owner": "mpi-astronomy",
+      "repo": "awesome-astro-datascience",
+      "stars": 65
+    },
     "original_repository_sha": "d0818361118ff39f1aec50bbcc19580d9509e032",
     "enhanced_repository": "enhansome/enhansome-astro-datascience",
     "enhanced_repository_description": null,
