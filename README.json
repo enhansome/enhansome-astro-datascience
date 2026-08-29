@@ -336,7 +336,7 @@
             "last_commit": "2026-08-21T12:39:13Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 500608
+            "stars": 500885
           },
           "first_seen": "2026-08-28T05:50:43.336Z"
         },
@@ -352,7 +352,7 @@
             "last_commit": "2024-06-02T22:46:41Z",
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33632
+            "stars": 33634
           },
           "first_seen": "2026-08-28T05:50:43.336Z"
         },
@@ -368,7 +368,7 @@
             "last_commit": "2026-08-27T15:40:38Z",
             "owner": "academic",
             "repo": "awesome-datascience",
-            "stars": 29882
+            "stars": 29887
           },
           "first_seen": "2026-08-28T05:50:43.336Z"
         },
@@ -384,7 +384,7 @@
             "last_commit": "2024-07-31T23:19:05Z",
             "owner": "emijrp",
             "repo": "awesome-awesome",
-            "stars": 3204
+            "stars": 3203
           },
           "first_seen": "2026-08-28T05:50:43.336Z"
         },
@@ -425,7 +425,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T05:50:43.336Z",
+    "last_updated": "2026-08-29T03:24:03.677Z",
     "original_repository_info": {
       "archived": false,
       "id": 477450329,
