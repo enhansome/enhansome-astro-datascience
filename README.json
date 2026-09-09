@@ -116,7 +116,7 @@
                 "id": 248772620,
                 "language": "Jupyter Notebook",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-20T15:27:31Z",
+                "last_commit": "2026-09-09T14:57:00Z",
                 "open_issues": 17,
                 "owner": "spacetelescope",
                 "repo": "jdat_notebooks",
@@ -462,7 +462,7 @@
             "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 504271,
+            "stars": 504530,
             "topics": [
               "awesome",
               "awesome-list",
@@ -486,7 +486,7 @@
             "language": "Ruby",
             "license": null,
             "last_commit": "2024-06-02T22:46:41Z",
-            "open_issues": 63,
+            "open_issues": 65,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
             "stars": 33660,
@@ -506,11 +506,11 @@
             "id": 21515044,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-09-08T19:25:43Z",
+            "last_commit": "2026-09-09T16:27:56Z",
             "open_issues": 4,
             "owner": "academic",
             "repo": "awesome-datascience",
-            "stars": 29947,
+            "stars": 29954,
             "topics": [
               "analytics",
               "awesome-list",
@@ -601,7 +601,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T23:43:43.770Z",
+    "last_updated": "2026-09-09T23:34:14.919Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of resources for Astronomy Data Science ",
