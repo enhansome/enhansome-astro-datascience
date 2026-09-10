@@ -116,12 +116,40 @@
                 "id": 248772620,
                 "language": "Jupyter Notebook",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-09T14:57:00Z",
-                "open_issues": 17,
+                "last_commit": "2026-09-10T22:37:26Z",
+                "open_issues": 18,
                 "owner": "spacetelescope",
                 "repo": "jdat_notebooks",
                 "stars": 133,
                 "topics": []
+              },
+              "first_seen": "2026-08-28T05:50:43.336Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Tutorials for creating figures, tables, or other content",
+              "description": "by AAS Journals",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Tutorials for creating figures, tables, or other content for AAS Journals.",
+                "homepage": null,
+                "id": 33264937,
+                "language": "HTML",
+                "license": "CC-BY-4.0",
+                "last_commit": "2024-05-17T16:24:38Z",
+                "open_issues": 15,
+                "owner": "AASJournals",
+                "repo": "Tutorials",
+                "stars": 44,
+                "topics": [
+                  "bokeh",
+                  "citation",
+                  "doi",
+                  "repositories",
+                  "x3d",
+                  "x3dom"
+                ]
               },
               "first_seen": "2026-08-28T05:50:43.336Z"
             },
@@ -143,34 +171,6 @@
                 "repo": "tutorial-notebooks",
                 "stars": 43,
                 "topics": []
-              },
-              "first_seen": "2026-08-28T05:50:43.336Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Tutorials for creating figures, tables, or other content",
-              "description": "by AAS Journals",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Tutorials for creating figures, tables, or other content for AAS Journals.",
-                "homepage": null,
-                "id": 33264937,
-                "language": "HTML",
-                "license": "CC-BY-4.0",
-                "last_commit": "2024-05-17T16:24:38Z",
-                "open_issues": 15,
-                "owner": "AASJournals",
-                "repo": "Tutorials",
-                "stars": 43,
-                "topics": [
-                  "bokeh",
-                  "citation",
-                  "doi",
-                  "repositories",
-                  "x3d",
-                  "x3dom"
-                ]
               },
               "first_seen": "2026-08-28T05:50:43.336Z"
             }
@@ -462,7 +462,7 @@
             "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 504530,
+            "stars": 504853,
             "topics": [
               "awesome",
               "awesome-list",
@@ -489,7 +489,7 @@
             "open_issues": 65,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33660,
+            "stars": 33662,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:43.336Z"
@@ -510,7 +510,7 @@
             "open_issues": 4,
             "owner": "academic",
             "repo": "awesome-datascience",
-            "stars": 29954,
+            "stars": 29961,
             "topics": [
               "analytics",
               "awesome-list",
@@ -542,7 +542,7 @@
             "open_issues": 26,
             "owner": "emijrp",
             "repo": "awesome-awesome",
-            "stars": 3207,
+            "stars": 3206,
             "topics": [
               "awesome",
               "awesome-list"
@@ -601,7 +601,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T23:34:14.919Z",
+    "last_updated": "2026-09-10T23:27:36.033Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of resources for Astronomy Data Science ",
