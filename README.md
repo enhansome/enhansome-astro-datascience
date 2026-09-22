@@ -1,6 +1,6 @@
 # Awesome List of resources for Astronomy Data Science with stars
 
-An [awesome list](https://github.com/sindresorhus/awesome) ⭐ 508,636 | 🐛 106 | 📅 2026-09-02 of resources for astronomers interested in Data Science.  *Everyone* is invited to [contribute](CONTRIBUTING.md) by pull request.
+An [awesome list](https://github.com/sindresorhus/awesome) ⭐ 509,023 | 🐛 106 | 📅 2026-09-02 of resources for astronomers interested in Data Science.  *Everyone* is invited to [contribute](CONTRIBUTING.md) by pull request.
 
 ## Table of Contents
 
@@ -82,7 +82,7 @@ In the following, be critical, not all articles are written by specialists. Some
 #### Tutorials
 
 * STScI [general Jupyter Notebooks](https://github.com/spacetelescope/notebooks) ⭐ 231 | 🐛 40 | 📅 2026-06-01
-* STScI [JWST Jupyter Notebooks](https://github.com/spacetelescope/jdat_notebooks) ⭐ 133 | 🐛 16 | 🌐 Jupyter Notebook | 📅 2026-09-17 showcasing pipeline and analysis tools via science use cases
+* STScI [JWST Jupyter Notebooks](https://github.com/spacetelescope/jdat_notebooks) ⭐ 133 | 🐛 17 | 🌐 Jupyter Notebook | 📅 2026-09-22 showcasing pipeline and analysis tools via science use cases
 * [Tutorials for creating figures, tables, or other content](https://github.com/AASJournals/Tutorials) ⭐ 44 | 🐛 15 | 🌐 HTML | 📅 2024-05-17 by AAS Journals
 * [Rubin Observatory Tutorial Jupyter Notebooks for Data Preview 0](https://github.com/rubin-dp0/tutorial-notebooks) ⚠️ Archived
 
@@ -119,10 +119,10 @@ In the following, be critical, not all articles are written by specialists. Some
 
 ## Other Awesome Lists
 
-* [sindresorhus/awesome](https://github.com/sindresorhus/awesome) ⭐ 508,636 | 🐛 106 | 📅 2026-09-02 The original
-* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,679 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02 per coding language
-* [awesome-datascience](https://github.com/academic/awesome-datascience) ⭐ 30,045 | 🐛 6 | 📅 2026-09-21
-* [awesome-awesome](https://github.com/emijrp/awesome-awesome) ⭐ 3,210 | 🐛 26 | 📅 2024-07-31
+* [sindresorhus/awesome](https://github.com/sindresorhus/awesome) ⭐ 509,023 | 🐛 106 | 📅 2026-09-02 The original
+* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,681 | 🐛 66 | 🌐 Ruby | 📅 2024-06-02 per coding language
+* [awesome-datascience](https://github.com/academic/awesome-datascience) ⭐ 30,055 | 🐛 6 | 📅 2026-09-21
+* [awesome-awesome](https://github.com/emijrp/awesome-awesome) ⭐ 3,212 | 🐛 26 | 📅 2024-07-31
 * [awesome-astronomy](https://github.com/jonathansick/awesome-astronomy) ⭐ 625 | 🐛 3 | 📅 2025-07-30 by Jonathan Sick
 * [The Warren](https://github.com/torchhound/warren) ⭐ 406 | 🐛 0 | 🌐 Python | 📅 2018-10-12
 
