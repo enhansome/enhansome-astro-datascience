@@ -1,6 +1,6 @@
 # Awesome List of resources for Astronomy Data Science with stars
 
-An [awesome list](https://github.com/sindresorhus/awesome) ⭐ 509,965 | 🐛 107 | 📅 2026-09-02 of resources for astronomers interested in Data Science.  *Everyone* is invited to [contribute](CONTRIBUTING.md) by pull request.
+An [awesome list](https://github.com/sindresorhus/awesome) ⭐ 510,459 | 🐛 107 | 📅 2026-09-02 of resources for astronomers interested in Data Science.  *Everyone* is invited to [contribute](CONTRIBUTING.md) by pull request.
 
 ## Table of Contents
 
@@ -82,14 +82,14 @@ In the following, be critical, not all articles are written by specialists. Some
 #### Tutorials
 
 * STScI [general Jupyter Notebooks](https://github.com/spacetelescope/notebooks) ⭐ 231 | 🐛 40 | 📅 2026-06-01
-* STScI [JWST Jupyter Notebooks](https://github.com/spacetelescope/jdat_notebooks) ⭐ 133 | 🐛 17 | 🌐 Jupyter Notebook | 📅 2026-09-22 showcasing pipeline and analysis tools via science use cases
+* STScI [JWST Jupyter Notebooks](https://github.com/spacetelescope/jdat_notebooks) ⭐ 133 | 🐛 18 | 🌐 Jupyter Notebook | 📅 2026-09-22 showcasing pipeline and analysis tools via science use cases
 * [Tutorials for creating figures, tables, or other content](https://github.com/AASJournals/Tutorials) ⭐ 44 | 🐛 15 | 🌐 HTML | 📅 2024-05-17 by AAS Journals
 * [Rubin Observatory Tutorial Jupyter Notebooks for Data Preview 0](https://github.com/rubin-dp0/tutorial-notebooks) ⚠️ Archived
 
 #### Course and Workshop Materials
 
 * [ESCAPE data science summer school 2021](https://github.com/escape2020/school2021) ⭐ 245 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2024-05-03 Materials on software development and open science by the European Science Cluster of Astronomy & Particle physics ESFRI research infrastructures project.
-* [Code/Astro Workshop Workshop materials](https://github.com/semaphoreP/codeastro) ⭐ 242 | 🐛 25 | 🌐 Jupyter Notebook | 📅 2026-08-11 by Jason Wang. A Software Engineering Workshop for Astronomy.
+* [Code/Astro Workshop Workshop materials](https://github.com/semaphoreP/codeastro) ⭐ 241 | 🐛 25 | 🌐 Jupyter Notebook | 📅 2026-08-11 by Jason Wang. A Software Engineering Workshop for Astronomy.
 * [Machine Learning and Statistics for Physicists](https://github.com/dkirkby/MachineLearningStatistics) ⭐ 104 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2021-04-15 by David Kirby. Material for a UC Irvine course offered by the Department of Physics and Astronomy.
 * [Machine Learning for Physics and Astronomy (2022-2023)](https://github.com/LHCfitNikhef/ML4PA) ⭐ 69 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2022-08-25 by Juan Rojo, Tanjona Rabemananjara and Ryan van Mastrigt
 * [Astrostatistics and Machine Learning class for the MSc degree in Astrophysics at the University of Milan-Bicocca](https://github.com/dgerosa/astrostatistics_bicocca_2024) ⭐ 37 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-09-27 by Davide Gerosa
@@ -119,10 +119,10 @@ In the following, be critical, not all articles are written by specialists. Some
 
 ## Other Awesome Lists
 
-* [sindresorhus/awesome](https://github.com/sindresorhus/awesome) ⭐ 509,965 | 🐛 107 | 📅 2026-09-02 The original
-* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,687 | 🐛 66 | 🌐 Ruby | 📅 2024-06-02 per coding language
-* [awesome-datascience](https://github.com/academic/awesome-datascience) ⭐ 30,059 | 🐛 5 | 📅 2026-09-24
-* [awesome-awesome](https://github.com/emijrp/awesome-awesome) ⭐ 3,211 | 🐛 28 | 📅 2024-07-31
+* [sindresorhus/awesome](https://github.com/sindresorhus/awesome) ⭐ 510,459 | 🐛 107 | 📅 2026-09-02 The original
+* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,688 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02 per coding language
+* [awesome-datascience](https://github.com/academic/awesome-datascience) ⭐ 30,061 | 🐛 6 | 📅 2026-09-24
+* [awesome-awesome](https://github.com/emijrp/awesome-awesome) ⭐ 3,213 | 🐛 28 | 📅 2024-07-31
 * [awesome-astronomy](https://github.com/jonathansick/awesome-astronomy) ⭐ 625 | 🐛 3 | 📅 2025-07-30 by Jonathan Sick
 * [The Warren](https://github.com/torchhound/warren) ⭐ 407 | 🐛 0 | 🌐 Python | 📅 2018-10-12
 
@@ -146,4 +146,4 @@ See [LICENSE](LICENSE).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
