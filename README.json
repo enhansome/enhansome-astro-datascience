@@ -69,7 +69,7 @@
                 "open_issues": 5,
                 "owner": "MichelleLochner",
                 "repo": "astronomaly",
-                "stars": 110,
+                "stars": 109,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:50:43.336Z"
@@ -116,8 +116,8 @@
                 "id": 248772620,
                 "language": "Jupyter Notebook",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-22T19:21:01Z",
-                "open_issues": 18,
+                "last_commit": "2026-09-29T14:51:54Z",
+                "open_issues": 17,
                 "owner": "spacetelescope",
                 "repo": "jdat_notebooks",
                 "stars": 133,
@@ -141,7 +141,7 @@
                 "open_issues": 15,
                 "owner": "AASJournals",
                 "repo": "Tutorials",
-                "stars": 44,
+                "stars": 45,
                 "topics": [
                   "bokeh",
                   "citation",
@@ -462,7 +462,7 @@
             "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 512015,
+            "stars": 512456,
             "topics": [
               "awesome",
               "awesome-list",
@@ -489,7 +489,7 @@
             "open_issues": 66,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33694,
+            "stars": 33695,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:43.336Z"
@@ -506,11 +506,11 @@
             "id": 21515044,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-09-28T15:34:01Z",
-            "open_issues": 9,
+            "last_commit": "2026-09-29T21:59:38Z",
+            "open_issues": 10,
             "owner": "academic",
             "repo": "awesome-datascience",
-            "stars": 30083,
+            "stars": 30092,
             "topics": [
               "analytics",
               "awesome-list",
@@ -566,7 +566,7 @@
             "open_issues": 3,
             "owner": "jonathansick",
             "repo": "awesome-astronomy",
-            "stars": 626,
+            "stars": 627,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:43.336Z"
@@ -601,7 +601,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T01:19:06.422Z",
+    "last_updated": "2026-09-30T00:48:23.549Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of resources for Astronomy Data Science ",
