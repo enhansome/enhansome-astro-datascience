@@ -462,7 +462,7 @@
             "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 512889,
+            "stars": 513279,
             "topics": [
               "awesome",
               "awesome-list",
@@ -486,10 +486,10 @@
             "language": "Ruby",
             "license": null,
             "last_commit": "2024-06-02T22:46:41Z",
-            "open_issues": 66,
+            "open_issues": 65,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33696,
+            "stars": 33697,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:43.336Z"
@@ -510,7 +510,7 @@
             "open_issues": 12,
             "owner": "academic",
             "repo": "awesome-datascience",
-            "stars": 30096,
+            "stars": 30099,
             "topics": [
               "analytics",
               "awesome-list",
@@ -601,7 +601,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T00:52:34.776Z",
+    "last_updated": "2026-10-02T01:07:02.525Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of resources for Astronomy Data Science ",
