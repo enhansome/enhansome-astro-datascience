@@ -84,7 +84,7 @@
             {
               "node_type": "item",
               "title": "STScI general Jupyter Notebooks",
-              "description": null,
+              "description": "spacetelescope/notebooks",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -156,7 +156,7 @@
             {
               "node_type": "item",
               "title": "Rubin Observatory Tutorial Jupyter Notebooks for Data Preview 0",
-              "description": null,
+              "description": "rubin-dp0/tutorial-notebooks",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -462,7 +462,7 @@
             "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 513736,
+            "stars": 513795,
             "topics": [
               "awesome",
               "awesome-list",
@@ -497,7 +497,7 @@
         {
           "node_type": "item",
           "title": "awesome-datascience",
-          "description": null,
+          "description": "academic/awesome-datascience",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -529,7 +529,7 @@
         {
           "node_type": "item",
           "title": "awesome-awesome",
-          "description": null,
+          "description": "emijrp/awesome-awesome",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -542,7 +542,7 @@
             "open_issues": 29,
             "owner": "emijrp",
             "repo": "awesome-awesome",
-            "stars": 3217,
+            "stars": 3218,
             "topics": [
               "awesome",
               "awesome-list"
@@ -574,7 +574,7 @@
         {
           "node_type": "item",
           "title": "The Warren",
-          "description": null,
+          "description": "torchhound/warren",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -601,7 +601,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T00:46:33.811Z",
+    "last_updated": "2026-10-03T04:33:26.973Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of resources for Astronomy Data Science ",
