@@ -1,6 +1,6 @@
 # Awesome List of resources for Astronomy Data Science with stars
 
-An [awesome list](https://github.com/sindresorhus/awesome) ⭐ 515,195 | 🐛 107 | 📅 2026-09-02 of resources for astronomers interested in Data Science.  *Everyone* is invited to [contribute](CONTRIBUTING.md) by pull request.
+An [awesome list](https://github.com/sindresorhus/awesome) ⭐ 515,354 | 🐛 106 | 📅 2026-09-02 of resources for astronomers interested in Data Science.  *Everyone* is invited to [contribute](CONTRIBUTING.md) by pull request.
 
 ## Table of Contents
 
@@ -77,7 +77,7 @@ In the following, be critical, not all articles are written by specialists. Some
 
 #### Libraries
 
-* [Astronomaly](https://github.com/MichelleLochner/astronomaly) ⭐ 109 | 🐛 5 | 🌐 Python | 📅 2026-05-12 A flexible framework for anomaly detection in astronomy.
+* [Astronomaly](https://github.com/MichelleLochner/astronomaly) ⭐ 110 | 🐛 5 | 🌐 Python | 📅 2026-05-12 A flexible framework for anomaly detection in astronomy.
 
 #### Tutorials
 
@@ -119,10 +119,10 @@ In the following, be critical, not all articles are written by specialists. Some
 
 ## Other Awesome Lists
 
-* [sindresorhus/awesome](https://github.com/sindresorhus/awesome) ⭐ 515,195 | 🐛 107 | 📅 2026-09-02 The original
-* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,703 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02 per coding language
-* [awesome-datascience](https://github.com/academic/awesome-datascience) ⭐ 30,109 | 🐛 12 | 📅 2026-10-02
-* [awesome-awesome](https://github.com/emijrp/awesome-awesome) ⭐ 3,220 | 🐛 29 | 📅 2024-07-31
+* [sindresorhus/awesome](https://github.com/sindresorhus/awesome) ⭐ 515,354 | 🐛 106 | 📅 2026-09-02 The original
+* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,705 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02 per coding language
+* [awesome-datascience](https://github.com/academic/awesome-datascience) ⭐ 30,111 | 🐛 12 | 📅 2026-10-02
+* [awesome-awesome](https://github.com/emijrp/awesome-awesome) ⭐ 3,221 | 🐛 29 | 📅 2024-07-31
 * [awesome-astronomy](https://github.com/jonathansick/awesome-astronomy) ⭐ 627 | 🐛 3 | 📅 2025-07-30 by Jonathan Sick
 * [The Warren](https://github.com/torchhound/warren) ⭐ 407 | 🐛 0 | 🌐 Python | 📅 2018-10-12
 
