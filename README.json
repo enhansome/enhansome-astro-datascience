@@ -197,7 +197,7 @@
                 "open_issues": 3,
                 "owner": "escape2020",
                 "repo": "school2021",
-                "stars": 245,
+                "stars": 246,
                 "topics": [
                   "astronomy",
                   "astroparticle",
@@ -462,7 +462,7 @@
             "open_issues": 105,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 518210,
+            "stars": 518661,
             "topics": [
               "awesome",
               "awesome-list",
@@ -506,11 +506,11 @@
             "id": 21515044,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-10-09T16:18:23Z",
+            "last_commit": "2026-10-13T13:55:28Z",
             "open_issues": 15,
             "owner": "academic",
             "repo": "awesome-datascience",
-            "stars": 30139,
+            "stars": 30142,
             "topics": [
               "analytics",
               "awesome-list",
@@ -601,7 +601,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T02:44:25.477Z",
+    "last_updated": "2026-10-14T00:40:29.765Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of resources for Astronomy Data Science ",

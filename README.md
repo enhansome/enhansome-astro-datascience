@@ -1,6 +1,6 @@
 # Awesome List of resources for Astronomy Data Science with stars
 
-An [awesome list](https://github.com/sindresorhus/awesome) ⭐ 518,210 | 🐛 105 | 📅 2026-09-02 of resources for astronomers interested in Data Science.  *Everyone* is invited to [contribute](CONTRIBUTING.md) by pull request.
+An [awesome list](https://github.com/sindresorhus/awesome) ⭐ 518,661 | 🐛 105 | 📅 2026-09-02 of resources for astronomers interested in Data Science.  *Everyone* is invited to [contribute](CONTRIBUTING.md) by pull request.
 
 ## Table of Contents
 
@@ -88,7 +88,7 @@ In the following, be critical, not all articles are written by specialists. Some
 
 #### Course and Workshop Materials
 
-* [ESCAPE data science summer school 2021](https://github.com/escape2020/school2021) ⭐ 245 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2024-05-03 Materials on software development and open science by the European Science Cluster of Astronomy & Particle physics ESFRI research infrastructures project.
+* [ESCAPE data science summer school 2021](https://github.com/escape2020/school2021) ⭐ 246 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2024-05-03 Materials on software development and open science by the European Science Cluster of Astronomy & Particle physics ESFRI research infrastructures project.
 * [Code/Astro Workshop Workshop materials](https://github.com/semaphoreP/codeastro) ⭐ 241 | 🐛 25 | 🌐 Jupyter Notebook | 📅 2026-08-11 by Jason Wang. A Software Engineering Workshop for Astronomy.
 * [Machine Learning and Statistics for Physicists](https://github.com/dkirkby/MachineLearningStatistics) ⭐ 104 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2021-04-15 by David Kirby. Material for a UC Irvine course offered by the Department of Physics and Astronomy.
 * [Machine Learning for Physics and Astronomy (2022-2023)](https://github.com/LHCfitNikhef/ML4PA) ⭐ 69 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2022-08-25 by Juan Rojo, Tanjona Rabemananjara and Ryan van Mastrigt
@@ -119,9 +119,9 @@ In the following, be critical, not all articles are written by specialists. Some
 
 ## Other Awesome Lists
 
-* [sindresorhus/awesome](https://github.com/sindresorhus/awesome) ⭐ 518,210 | 🐛 105 | 📅 2026-09-02 The original
+* [sindresorhus/awesome](https://github.com/sindresorhus/awesome) ⭐ 518,661 | 🐛 105 | 📅 2026-09-02 The original
 * [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,721 | 🐛 64 | 🌐 Ruby | 📅 2024-06-02 per coding language
-* [awesome-datascience](https://github.com/academic/awesome-datascience) ⭐ 30,139 | 🐛 15 | 📅 2026-10-09
+* [awesome-datascience](https://github.com/academic/awesome-datascience) ⭐ 30,142 | 🐛 15 | 📅 2026-10-13
 * [awesome-awesome](https://github.com/emijrp/awesome-awesome) ⭐ 3,229 | 🐛 26 | 📅 2024-07-31
 * [awesome-astronomy](https://github.com/jonathansick/awesome-astronomy) ⭐ 627 | 🐛 4 | 📅 2025-07-30 by Jonathan Sick
 * [The Warren](https://github.com/torchhound/warren) ⭐ 408 | 🐛 0 | 🌐 Python | 📅 2018-10-12
@@ -146,4 +146,4 @@ See [LICENSE](LICENSE).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
