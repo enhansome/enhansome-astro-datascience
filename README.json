@@ -224,7 +224,7 @@
                 "open_issues": 25,
                 "owner": "semaphoreP",
                 "repo": "codeastro",
-                "stars": 241,
+                "stars": 242,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:50:43.336Z"
@@ -293,7 +293,7 @@
                 "open_issues": 0,
                 "owner": "dgerosa",
                 "repo": "astrostatistics_bicocca_2024",
-                "stars": 37,
+                "stars": 38,
                 "topics": [
                   "astrophysics",
                   "astrostatistics",
@@ -462,7 +462,7 @@
             "open_issues": 103,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 530363,
+            "stars": 531021,
             "topics": [
               "awesome",
               "awesome-list",
@@ -489,7 +489,7 @@
             "open_issues": 65,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33767,
+            "stars": 33771,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:43.336Z"
@@ -506,11 +506,11 @@
             "id": 21515044,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-10-31T21:12:43Z",
+            "last_commit": "2026-11-04T15:46:48Z",
             "open_issues": 5,
             "owner": "academic",
             "repo": "awesome-datascience",
-            "stars": 30273,
+            "stars": 30287,
             "topics": [
               "analytics",
               "awesome-list",
@@ -542,7 +542,7 @@
             "open_issues": 26,
             "owner": "emijrp",
             "repo": "awesome-awesome",
-            "stars": 3242,
+            "stars": 3244,
             "topics": [
               "awesome",
               "awesome-list"
@@ -601,7 +601,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T01:43:55.685Z",
+    "last_updated": "2026-11-05T01:51:59.891Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of resources for Astronomy Data Science ",
