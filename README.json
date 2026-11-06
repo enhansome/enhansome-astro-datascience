@@ -40,7 +40,7 @@
             "open_issues": 34,
             "owner": "astroML",
             "repo": "astroML-notebooks",
-            "stars": 54,
+            "stars": 55,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:43.336Z"
@@ -462,7 +462,7 @@
             "open_issues": 103,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 531021,
+            "stars": 531790,
             "topics": [
               "awesome",
               "awesome-list",
@@ -510,7 +510,7 @@
             "open_issues": 5,
             "owner": "academic",
             "repo": "awesome-datascience",
-            "stars": 30287,
+            "stars": 30294,
             "topics": [
               "analytics",
               "awesome-list",
@@ -542,7 +542,7 @@
             "open_issues": 26,
             "owner": "emijrp",
             "repo": "awesome-awesome",
-            "stars": 3244,
+            "stars": 3246,
             "topics": [
               "awesome",
               "awesome-list"
@@ -601,7 +601,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T01:51:59.891Z",
+    "last_updated": "2026-11-06T01:51:06.633Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of resources for Astronomy Data Science ",
@@ -613,7 +613,7 @@
       "open_issues": 2,
       "owner": "mpi-astronomy",
       "repo": "awesome-astro-datascience",
-      "stars": 66,
+      "stars": 67,
       "topics": [
         "awesome-list",
         "data-science",
