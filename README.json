@@ -97,7 +97,7 @@
                 "open_issues": 40,
                 "owner": "spacetelescope",
                 "repo": "notebooks",
-                "stars": 231,
+                "stars": 232,
                 "topics": [
                   "deprecated"
                 ]
@@ -120,7 +120,7 @@
                 "open_issues": 16,
                 "owner": "spacetelescope",
                 "repo": "jdat_notebooks",
-                "stars": 133,
+                "stars": 134,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:50:43.336Z"
@@ -462,7 +462,7 @@
             "open_issues": 103,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 540071,
+            "stars": 540545,
             "topics": [
               "awesome",
               "awesome-list",
@@ -489,7 +489,7 @@
             "open_issues": 67,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33804,
+            "stars": 33809,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:43.336Z"
@@ -510,7 +510,7 @@
             "open_issues": 1,
             "owner": "academic",
             "repo": "awesome-datascience",
-            "stars": 30351,
+            "stars": 30356,
             "topics": [
               "analytics",
               "awesome-list",
@@ -563,10 +563,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2025-07-30T14:42:37Z",
-            "open_issues": 9,
+            "open_issues": 10,
             "owner": "jonathansick",
             "repo": "awesome-astronomy",
-            "stars": 631,
+            "stars": 632,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:43.336Z"
@@ -601,7 +601,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T02:53:02.649Z",
+    "last_updated": "2026-11-22T01:43:00.233Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of resources for Astronomy Data Science ",
