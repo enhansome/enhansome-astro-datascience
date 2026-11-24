@@ -1,6 +1,6 @@
 # Awesome List of resources for Astronomy Data Science with stars
 
-An [awesome list](https://github.com/sindresorhus/awesome) ⭐ 541,138 | 🐛 103 | 📅 2026-09-02 of resources for astronomers interested in Data Science.  *Everyone* is invited to [contribute](CONTRIBUTING.md) by pull request.
+An [awesome list](https://github.com/sindresorhus/awesome) ⭐ 541,799 | 🐛 103 | 📅 2026-09-02 of resources for astronomers interested in Data Science.  *Everyone* is invited to [contribute](CONTRIBUTING.md) by pull request.
 
 ## Table of Contents
 
@@ -119,9 +119,9 @@ In the following, be critical, not all articles are written by specialists. Some
 
 ## Other Awesome Lists
 
-* [sindresorhus/awesome](https://github.com/sindresorhus/awesome) ⭐ 541,138 | 🐛 103 | 📅 2026-09-02 The original
+* [sindresorhus/awesome](https://github.com/sindresorhus/awesome) ⭐ 541,799 | 🐛 103 | 📅 2026-09-02 The original
 * [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,810 | 🐛 67 | 🌐 Ruby | 📅 2024-06-02 per coding language
-* [awesome-datascience](https://github.com/academic/awesome-datascience) ⭐ 30,357 | 🐛 1 | 📅 2026-11-20
+* [awesome-datascience](https://github.com/academic/awesome-datascience) ⭐ 30,364 | 🐛 2 | 📅 2026-11-20
 * [awesome-awesome](https://github.com/emijrp/awesome-awesome) ⭐ 3,252 | 🐛 28 | 📅 2024-07-31
 * [awesome-astronomy](https://github.com/jonathansick/awesome-astronomy) ⭐ 632 | 🐛 10 | 📅 2025-07-30 by Jonathan Sick
 * [The Warren](https://github.com/torchhound/warren) ⭐ 408 | 🐛 0 | 🌐 Python | 📅 2018-10-12
@@ -146,4 +146,4 @@ See [LICENSE](LICENSE).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
